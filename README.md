@@ -86,6 +86,7 @@
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYwM2t2MnJocHVmMjh0dnNod25ocjlyYWdlZ2NmZ2F2NGluamE4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -93,3 +94,5 @@
 </div>
 
 ###
+
+[![roadmap.sh](https://roadmap.sh/card/tall/691c7d2b899e677658a46c19?variant=dark&roadmaps=linux)](https://roadmap.sh)
